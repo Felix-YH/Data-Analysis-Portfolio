@@ -31,6 +31,7 @@ More to be added soon
 | Project Name | Area | Description | Libraries | 
 |---|---|---|----|
 | 📺 [DeepDive - Netflix Movies and Guest Stars in The Office](https://github.com/fellydyll/Data-Analysis-Portfolio/blob/main/Datacamp/DeepDive%20-%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)| Data Wrangling & EDA | Analysing  information from a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time.| _pandas, matplotlib_ |   
+| 📺 [Relationship between Sales and Advertising dataset](https://github.com/fellydyll/Data-Analysis-Portfolio/blob/main/SimpleLinearRegression/SLR.ipynb)| Data Wrangling & EDA | I build a Simple Linear Regression model to study the linear relationship between Sales and Advertising dataset for a dietary weight control product.| _pandas, matplotlib_ |   
 
 More be added soon
 
