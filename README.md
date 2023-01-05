@@ -20,7 +20,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
-| 📺 [Show up for Appointment Analysis](https://github.com/fellydyll/-ALX-Udacity-Scholarship-Program/blob/main/investigate-a-dataset-template.ipynb) |   Data Wrangling & EDA | Analysing  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment? | _pandas, matplotlib_ |   
+| 📺 [Show up for Appointment Analysis](https://github.com/fellydyll/-ALX-Udacity-Scholarship-Program/blob/main/investigate-a-dataset-template.ipynb) |   Data Wrangling & EDA | Analysing  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment? | _pandas, matplotlib, seaborn_ |   
 
 
 More to be added soon
