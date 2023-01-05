@@ -23,14 +23,16 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | 📺 [Show up for Appointment Analysis](https://github.com/fellydyll/-ALX-Udacity-Scholarship-Program/blob/main/investigate-a-dataset-template.ipynb) |   Data Wrangling & EDA | Analysing  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment? | _pandas, matplotlib, seaborn_ |   
 
 
+
 More to be added soon
 
 ## Guided Projects
 
 | Project Name | Area | Description | Libraries | 
 |---|---|---|----|
+| 📺 [DeepDive - Netflix Movies and Guest Stars in The Office](https://github.com/fellydyll/Data-Analysis-Portfolio/blob/main/Datacamp/DeepDive%20-%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)| Data Wrangling & EDA | Analysing  information from a dataset of The Office episodes, and try to understand how the popularity and quality of the series varied over time.| _pandas, matplotlib_ |   
 
-To be added soon
+More be added soon
 
 ***
 
