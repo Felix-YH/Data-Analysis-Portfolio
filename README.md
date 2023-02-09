@@ -21,7 +21,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 | Project Name | Area | Description | Libraries |    
 |---|---|---|---|
 | 📺 [Show up for Appointment Analysis](https://github.com/fellydyll/-ALX-Udacity-Scholarship-Program/blob/main/investigate-a-dataset-template.ipynb) |   Data Wrangling & EDA | Analysing  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment? | _pandas, matplotlib, seaborn_ | 
-| 😹 [WeRateDogs Twitter Data Wrangling](The goal of this project was to Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations) |   Data Wrangling & EDA | Analysing  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment? | _pandas, matplotlib, seaborn_ | 
+| 😹 [WeRateDogs Twitter Data Wrangling](https://github.com/Felix-YH/-ALX-Udacity-Scholarship-Program/tree/main/Project%202) |   Data Wrangling & EDA | The goal of this project was to Wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations | _pandas, matplotlib, seaborn_ | 
 | 💰 [Loan Data Exploration](https://github.com/Felix-YH/-ALX-Udacity-Scholarship-Program/tree/main/Project%203) |   Data Wrangling & EDA, Visualization | This projects aims to examine the Prosper Loans dataset and findout the factors that affect loan applications.| _pandas, matplotlib, seaborn_ | 
 
 
