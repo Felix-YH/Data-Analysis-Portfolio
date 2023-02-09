@@ -2,7 +2,7 @@
 
 Hi there! 🙋
 
-Welcome to my Portfolio page where I provide a walkthrough to all of my data analytics projects.
+Welcome to my Portfolio page have a look at my projects🤝.
 
 ## 📚 Table of Contents
 - [Python](#python)
