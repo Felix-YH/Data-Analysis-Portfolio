@@ -7,6 +7,7 @@ Welcome to my Portfolio page where I provide a walkthrough to all of my data ana
 ## 📚 Table of Contents
 - [Python](#python)
 - [Tableau](#tableau)
+- [SQL](#SQL)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
