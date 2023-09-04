@@ -5,7 +5,7 @@ The analysis was conducted using SAS, a powerful tool for data manipulation, exp
 - [Project Description](#project-description)
 - [Data Description](#data-description)
 - [Analysis](#analysis)
-- [Tables](#tables)
+  - [Data Cleaning](#data-cleaning)
 - [Links](#links)
 - [Images](#images)
 - [Lists](#lists)
@@ -34,5 +34,7 @@ Below are the questions I seek answers to:
 - Does a patient’s age affect whether a patient will show up or not?
 - What are the five neighborhoods with the highest number of patients missing their appointments from all the neighborhoods.?
 - On which weekdays people don’t show up most often?
+
+    ## Data Cleaning
 
 
