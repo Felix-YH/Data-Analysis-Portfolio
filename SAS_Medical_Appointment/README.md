@@ -1,20 +1,11 @@
-Overview
+# Overview
 This repository contains a data analysis project focused on medical appointments. 
-The analysis was conducted using SAS, a powerful tool for data manipulation, exploration, and statistical analysis.
 ## Table of contents
 - [Project Description](#project-description)
 - [Data Description](#data-description)
 - [Analysis](#analysis)
   - [Data Cleaning](#data-cleaning)
-- [Links](#links)
-- [Images](#images)
-- [Lists](#lists)
-- [Buttons](#buttons)
-- [Horizontal Rule](#horizontal-rule)
-- [Diagrams (19 July 2022)](#diagrams-19-july-2022)
-- [Mathematical expressions (19 July 2022)](#mathematical-expressions-19-july-2022)
-- [Miscellaneous](#miscellaneous)
-- [Hash symbol](#hash-symbol)
+  - [Question Answers](#question-answers)
 
 
 # Project Description
@@ -31,10 +22,22 @@ Below are the questions I seek answers to:
 - Are patients with scholarships more likely to miss their appointments?
 - Are patients who don’t receive SMS more likely to miss their appointment?
 - Does the time difference between the scheduling and appointment have any impact on whether a patient will show up for their appointment or not?
-- Does a patient’s age affect whether a patient will show up or not?
-- What are the five neighborhoods with the highest number of patients missing their appointments from all the neighborhoods.?
 - On which weekdays people don’t show up most often?
 
-    ## Data Cleaning
+  ## Data Cleaning
+Before starting with my analysis,
+I changed some column's name - No-show to Show, Hipertnsion to Hypertension 
+Created new columns for datetime values - aptm_date and schl_date, date_diff
+Remove some columns - patientid and appointementid;
 
-
+  ## Question Answers
+  1. What is the percentage of no-shows? Ans- From the diagram in Sas_med.pdf, we can see that most patients showed up for their appointments. Approximately 80 % of patients showed up for their appointments.
+  2. What are the factors that may affect whether a patient will show up for their scheduled appointment or not? Ans- Having a look at the final report, the following variables are likely to affect a patient's appointment i.e. gender, the number of days between the scheduled date and appointment date,  scholarship, and SMS. I will explore these factors in more detail.
+  3. Is there any effect of Gender on whether a patient will show up for the booked appointment or not? Ans- Yes, the gender of the patient affects whether they show up for their booked appointment. The percentage of females missing their appointment is nearly two times the number of males. So females are more likely to miss their appointment.
+  4. Are patients with scholarships more likely to miss their appointments? Patient wth scholarship or insurance are more likely to miss thier appointment. 76% of patients with scholarships are more likely to miss thier appointment.
+  5. Are patients who don’t receive SMS more likely to miss their appointment?
+     An unusual discovery indicates that patients who have received an SMS are       more likely to not attending their appointments. Most  patient did not received sms messages still turned up for their appointments. Clearly, receiving an sms does not play an importmant role in determing whether  a patient will show up for their appointments.
+  6. Does the time difference between the scheduling and appointment have any impact on whether a patient will show up for their appointment or not?
+It seems that as the time gap between the scheduling date and the appointment date increases, the likelihood of the patient not attending their appointment also rises.
+  7. On which weekdays people don’t show up most often?
+     The majority of missed appointments tend to occur on Tuesdays and Wednesdays
